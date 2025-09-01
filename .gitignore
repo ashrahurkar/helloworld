@@ -1,4 +1,3 @@
-### Java ###
 # Compiled class file
 *.class
 
@@ -38,6 +37,7 @@ replay_pid*
 
 # Maven
 target/
+pom.properties
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
